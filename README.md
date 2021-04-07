@@ -1,1 +1,5 @@
-This is code for a Google homepage clone.
+This is a clone of Google's homepage.
+
+Below is my live link:
+
+https://shiguruji-google-clone-task.netlify.app/
