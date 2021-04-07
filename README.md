@@ -1,1 +1,1 @@
-"# google-clone-task" 
+This is code for a Google homepage clone.
